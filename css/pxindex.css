@@ -1,0 +1,78 @@
+﻿.leftframe {
+    width: 18%;
+    height: 683px;
+    float: left;
+    background-color: #7ab8e9;
+}
+
+.main {
+    width: 955px;
+    margin: 0 auto;
+  
+}
+
+.rightframe {
+    width: 82%;
+    float: left;
+    height: 683px;
+    background-color: #00549c;
+}
+
+.table {
+    width: 60%;
+    margin-left: 20%;
+}
+.auto-style26 {
+    height: 33px;
+    width: 165px;
+}
+
+.auto-style28 {
+    margin-left: 13px;
+}
+
+.auto-style30 {
+    height: 33px;
+    width: 66px;
+}
+
+.auto-style31 {
+    height: 37px;
+    width: 66px;
+}
+
+.auto-style32 {
+    height: 41px;
+    width: 66px;
+}
+
+.auto-style33 {
+    height: 36px;
+    width: 66px;
+}
+
+tr {
+    height: 40px;
+}
+
+td {
+    line-height: 30px;
+}
+
+.auto-style34 {
+    width: 99px;
+}
+
+.auto-style35 {
+    width: 165px;
+}
+  .auto-style36 {
+            height: 30px;
+        }
+        .auto-style38 {
+            height: 30px;
+            width: 103px;
+        }
+        .auto-style39 {
+            width: 103px;
+        }

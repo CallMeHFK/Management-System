@@ -1,0 +1,35 @@
+﻿.zcframe{
+    width:48%;
+   
+  
+}
+.zcframe tr{ height:50px;
+}
+       .auto-style1 {
+            width: 90px;
+        }
+        .auto-style2 {
+            width: 178px;
+        }
+        .auto-style3 {
+            width: 90px;
+            height: 51px;
+        }
+        .auto-style4 {
+            width: 178px;
+            height: 51px;
+        }
+        .auto-style5 {
+            height: 51px;
+        }
+        .auto-style6 {
+            width: 90px;
+            height: 50px;
+        }
+        .auto-style7 {
+            width: 178px;
+            height: 50px;
+        }
+        .auto-style8 {
+            height: 50px;
+        }
